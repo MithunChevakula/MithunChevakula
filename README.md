@@ -8,5 +8,5 @@
 
 🚀 Currently exploring real-time ML deployment and full-stack web projects.
 
-📬 Let's connect: LinkedIn 
+📬 Let's connect: LinkedIn(https://www.linkedin.com/in/mithun-chevakula/)
 
